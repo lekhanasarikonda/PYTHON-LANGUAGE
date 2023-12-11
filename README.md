@@ -101,6 +101,20 @@ The compilation part is 1st done when we execute our code and then this will gen
 
 ![Screenshot_2](https://github.com/lekhanasarikonda/PYTHON-LANGUAGE/assets/134198650/1d2461ec-a452-44c7-83b7-a61ed4606b63)
 
+Ways to Run Python code:
+
+There are multiple ways to execute python code.
+
+>Python command line
+
+>Text Editor(Vs code)
+
+>Python IDLE(also python shell)
+
+>The Python interactive mode
+
+>Python IDE(py charm)
+
 
 
 
