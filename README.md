@@ -14,7 +14,7 @@ Python vs C Language:
 
 Developer: 
 
-> Guido van Rossum developed the python the python programming language,releasing the first version in 1991.
+> Guido van Rossum developed the python programming language,releasing the first version in 1991.
 
 > Dennis Ritchie developed the C programming language and released the first version in 1972.
 
@@ -61,7 +61,17 @@ Python vs C++ language:
 
 > Python has extensive libraries and frameworks for various tasks making it highly productive for rapid development. C++  has a more limited but powerful standard library.
 
-> 
+> Python code is generally shorter and easier to write and understand than C++ code.
+
+> Python is widely used in web development,data Analytics and scripting while C++ is commonly used in system programming,game development and performance-critical Applications.
+> Pythons dynamic nature allows for faster prototyping and easier debugging,while C++ offers stronger type checking and catch errors at compile time.
+
+> Python is beginner-friendly, while C++ is complex.
+
+![image-5](https://github.com/lekhanasarikonda/PYTHON-LANGUAGE/assets/134198650/8b48f0a2-1c63-4593-8e81-21a0f12a8af0)
+
+
+
 
 
 
