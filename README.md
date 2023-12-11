@@ -115,8 +115,19 @@ There are multiple ways to execute python code.
 
 >Python IDE(py charm)
 
+Career Opportunities after learning python:
 
+> Python Developer------>Python,Django/flask
 
+> Data Scientist  ------>R and python
+
+> Web Developer   ------>Html,css,Javascript and python
+
+> Machine Learning Engineer---> Tensorflow/pytorch
+
+> Test Automation Engineer -----> Selenium
+
+> Data Analyst
 
 
 
