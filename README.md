@@ -70,6 +70,30 @@ Python vs C++ language:
 
 ![image-5](https://github.com/lekhanasarikonda/PYTHON-LANGUAGE/assets/134198650/8b48f0a2-1c63-4593-8e81-21a0f12a8af0)
 
+Machine code:
+>It is platform dependent.
+ 
+>It is the collection of 0's and 1's.
+
+>It is understood by OS.
+
+>Can be directly executed by the processor or the CPU.
+
+>A Low level code.
+
+Byte code:
+>It is Platform independent.
+
+>It is the collection of mnemonics.
+
+>It is understood by JVM.
+
+>Created after compiling the source code and executed by a virtual machine.
+
+>An intermediate code.
+
+
+
 
 
 
