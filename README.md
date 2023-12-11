@@ -130,9 +130,14 @@ Career Opportunities after learning python:
 > Data Analyst
 
 Expression in Python:
-In Python,2+2 is called an expression,which is the most basic kind of programming  instruction in the  language.Expressions consists of values(such as 2) and operators(such as +) and they can always evaluate(thatis,reduce) down to a single value.
-That means you can use expressions anywhere in python code that you could also use a value. A single value with no operators is also considered an expression,too for example,below table lists all the math operators in python.
+In Python,2+2 is called an expression,which is the most basic kind of programming  instruction in the  language.Expressions consists of values(such as 2) and operators(such as +) and they can always evaluate(that is,reduce) down to a single value.
+That means you can use expressions anywhere in python code that you could also use a value. A single value with no operators is also considered an expression,though it evaluates only to itself.
 
+ Mathematical Operators:
+ There are plenty of other operators you can use in python expressions,too for example,below table lists all the math operators in python.
+ 
+ Order of precedence:
+ The order
 
 
 
