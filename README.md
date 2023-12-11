@@ -99,7 +99,8 @@ The compilation part is 1st done when we execute our code and then this will gen
 
 ![Screenshot_1](https://github.com/lekhanasarikonda/PYTHON-LANGUAGE/assets/134198650/520c019d-759d-44dc-a3b9-b0fb75fcbf8b)
 
-![Screenshot_2](https://github.com/lekhanasarikonda/PYTHON-LANGUAGE/assets/134198650/82a8c1da-7ab7-4131-8e7c-413b76082921)
+![Screenshot_2](https://github.com/lekhanasarikonda/PYTHON-LANGUAGE/assets/134198650/1d2461ec-a452-44c7-83b7-a61ed4606b63)
+
 
 
 
