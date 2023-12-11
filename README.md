@@ -97,9 +97,11 @@ Many Books and Many python developers mention that python is interpreted. But th
 The compilation part is hidden from the programmer thus,many programmers believe that it is an interpreted language.
 The compilation part is 1st done when we execute our code and then this will generate byte code and internally this byte code gets converted by the python virtual machine according to the underlying platform(machine+OS).
 
-![Screenshot_1](https://github.com/lekhanasarikonda/PYTHON-LANGUAGE/assets/134198650/2c66167f-c63e-411b-9dc2-7b9b9c90b3a6
+![Screenshot_1](https://github.com/lekhanasarikonda/PYTHON-LANGUAGE/assets/134198650/520c019d-759d-44dc-a3b9-b0fb75fcbf8b)
 
-![Screenshot_1](https://github.com/lekhanasarikonda/PYTHON-LANGUAGE/assets/134198650/35fb960a-ccc3-4891-b713-86ba3e31147f)
+![Screenshot_2](https://github.com/lekhanasarikonda/PYTHON-LANGUAGE/assets/134198650/82a8c1da-7ab7-4131-8e7c-413b76082921)
+
+
 
 
 
