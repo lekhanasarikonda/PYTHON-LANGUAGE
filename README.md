@@ -92,6 +92,10 @@ Byte code:
 
 >An intermediate code.
 
+Is Python Interpreted or compiled:
+Many Books and Many python developers mention that python is interpreted. But that is half correct because python is first compiled and then interpreted.
+The compilation part is hidden from the programmer thus,many programmers believe that it is an interpreted language.
+The compilation part is 1st done when we execute our code and then this will generate byte code and internally this byte code gets converted by the python virtual machine according to the underlying platform(machine+OS)
 
 
 
