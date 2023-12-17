@@ -143,10 +143,13 @@ The order of operations(also called as precedence) of python math operators is s
 
 >you can use parenthesis() to override the usual precedence if you need too.
 
-Datatypes:
-Expressions are just values combined with operators,and they always evaluated down to a single value.
-> A data type is a category for values,and every value belongs to exactly one data type.
-> Data types are very important because they tell you what operations can be performed on the operator.
+![WhatsApp Image 2023-12-17 at 8 03 43 PM](https://github.com/lekhanasarikonda/PYTHON-LANGUAGE/assets/134198650/ebf41876-bb69-464d-8411-3f573aed16c4)
+
+![WhatsApp Image 2023-12-17 at 8 03 43 PM (1)](https://github.com/lekhanasarikonda/PYTHON-LANGUAGE/assets/134198650/4e0e023c-d76d-4f61-aabf-17c1e0a6ffad)
+
+
+
+
 
 
 
