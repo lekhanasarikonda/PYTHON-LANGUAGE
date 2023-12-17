@@ -145,7 +145,8 @@ The order of operations(also called as precedence) of python math operators is s
 
 ![WhatsApp Image 2023-12-17 at 8 03 43 PM](https://github.com/lekhanasarikonda/PYTHON-LANGUAGE/assets/134198650/ebf41876-bb69-464d-8411-3f573aed16c4)
 
-![WhatsApp Image 2023-12-17 at 8 03 43 PM](https://github.com/lekhanasarikonda/PYTHON-LANGUAGE/assets/134198650/7ad4b86b-0308-4ce5-a2b7-2bf30312d81a)
+![WhatsApp Image 2023-12-17 at 8 03 43 PM](https://github.com/lekhanasarikonda/PYTHON-LANGUAGE/assets/134198650/edf7756e-1cdb-477b-b828-3c56ae3a0094)
+
 
 
 
