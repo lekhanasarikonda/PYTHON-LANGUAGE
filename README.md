@@ -1,4 +1,4 @@
-Why Learn Python?
+ Why Learn Python?
 
 > Examples of general purpose languages include C++,c#,Java,Javascript,Ruby,visual basics and python.They do not include declarative programming languages such as SQL or languages designed for solving domain-specific problems.
 
@@ -133,11 +133,16 @@ Expression in Python:
 In Python,2+2 is called an expression,which is the most basic kind of programming  instruction in the  language.Expressions consists of values(such as 2) and operators(such as +) and they can always evaluate(that is,reduce) down to a single value.
 That means you can use expressions anywhere in python code that you could also use a value. A single value with no operators is also considered an expression,though it evaluates only to itself.
 
- Mathematical Operators:
- There are plenty of other operators you can use in python expressions,too for example,below table lists all the math operators in python.
+Mathematical Operators:
+There are plenty of other operators you can use in python expressions,too for example,below table lists all the math operators in python.
  
- Order of precedence:
- The order
+Order of precedence:
+The order of operations(also called as precedence) of python math operators is similar to that of mathematics(BODMAS).
+
+>The ** operator is evaluated first;the *,/,//and % operators are evaluated next,from left to right;and the + and - operators are evaluated last(also from left to right).
+
+>you can use parenthesis() to override the usual precedence if you need too.
+ 
 
 
 
