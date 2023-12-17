@@ -142,7 +142,11 @@ The order of operations(also called as precedence) of python math operators is s
 >The ** operator is evaluated first;the *,/,//and % operators are evaluated next,from left to right;and the + and - operators are evaluated last(also from left to right).
 
 >you can use parenthesis() to override the usual precedence if you need too.
- 
+
+Datatypes:
+Expressions are just values combined with operators,and they always evaluated down to a single value.
+> A data type is a category for values,and every value belongs to exactly one data type.
+> Data types are very important because they tell you what operations can be performed on the operator.
 
 
 
